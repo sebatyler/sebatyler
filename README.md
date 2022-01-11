@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  I'm Seba!
+
+![](https://komarev.com/ghpvc/?username=sebatyler)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebatyler&count_private=true&show_icons=true&theme=highcontrast)
 
